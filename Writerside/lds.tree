@@ -6,7 +6,8 @@
                  name="Learn Data Structures"
                  start-page="starter-topic.md">
 
-    <toc-element topic="learn-data-structure.md"/>
-    <toc-element topic="List.md"/>
-    <toc-element topic="LinkedList.md"/>
+    <toc-element topic="learn-data-structure.md">
+        <toc-element topic="LinkedList.md"/>
+        <toc-element topic="List.md"/>
+    </toc-element>
 </instance-profile>
