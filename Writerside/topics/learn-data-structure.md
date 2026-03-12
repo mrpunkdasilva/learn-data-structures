@@ -1,17 +1,7 @@
 # Learn Data Structures
 
-## Introdução: Minecraft e Estruturas de Dados
-
-Vamos explorar o mundo de Minecraft como um jogo de blocos, onde cada bloco pode representar diferentes elementos de dados. Nesta seção, vamos aprender sobre as estruturas de dados e algoritmos, utilizando a analogia do Minecraft para facilitar a compreensão.
-
-Imagine que você está construindo uma casa com blocos de madeira, pedra, e argila. Cada tipo de bloco tem uma função específica na estrutura da casa. Da mesma forma, as estruturas de dados e algoritmos são como as regras e técnicas que nos ajudam a organizar e manipular dados em nossos computadores, programas, e mundos virtuais.
-
-Aqui está um mapa mental Mermaid que ilustra a relação entre Minecraft, estruturas de dados, e algoritmos:
-
 ```mermaid
 graph LR
-    Minecraft --> Blocos
-    Blocos --> Estruturas_de_Dados
     Estruturas_de_Dados --> Listas
     Estruturas_de_Dados --> Pilhas
     Estruturas_de_Dados --> Filas
@@ -24,10 +14,6 @@ graph LR
     Algoritmos --> Programação_Dinâmica
     Algoritmos --> Estruturas_de_Dados
 ```
-
-Neste mapa mental, você pode ver como os blocos de Minecraft estão relacionados às estruturas de dados, como listas, pilhas, filas, árvores, e grafos. Além disso, os algoritmos, como ordenação, busca, recursão, divisão e conquista, programação dinâmica, e estruturas de dados, trabalham juntos para manipular e organizar os dados em nossos jogos e aplicações.
-
-Vamos começar a explorar as estruturas de dados e algoritmos utilizando a analogia do Minecraft!
 
 ## Listas
 
